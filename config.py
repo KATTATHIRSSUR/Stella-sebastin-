@@ -1,6 +1,6 @@
-#    Stella (Development)
-#    Copyright (C) 2021 - meanii (Anil Chauhan)
-#    Copyright (C) 2021 - SpookyGang (Neel Verma, Anil Chauhan)
+#    stellasebastin (Development)
+#    Copyright (C) 2021 - meanii (kattathrissur)
+#    Copyright (C) 2021 - stellaework (kattathrissur)
 
 #    This program is free software; you can redistribute it and/or modify 
 #    it under the terms of the GNU General Public License as published by 
