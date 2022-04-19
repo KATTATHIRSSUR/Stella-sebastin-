@@ -1,4 +1,4 @@
-# Stella v2 <img src="https://cdn.discordapp.com/attachments/772889968838049802/845189008342777896/IMG_20210521_120844_190.jpg" width="37" height="37"> 
+# Stella sebastin <img src="https://cdn.discordapp.com/attachments/772889968838049802/845189008342777896/IMG_20210521_120844_190.jpg" width="37" height="37"> 
 > The better group management bot.
 <hr>
 
@@ -6,15 +6,15 @@
 ![Development Active](https://img.shields.io/badge/Development-Active-green.svg "Develoment Active")
 ![Pyrogram version](https://img.shields.io/badge/Pyrogram_version-Latest-orange.svg "Pyrogram version")
 
-<p>Stella is built upon Pyrogram with the support of MongoDB. She is not only faster than most group management bots but also capable of handling several process at a time.</p>
+<p>Stella sebastin is built upon Pyrogram with the support of MongoDB. She is not only faster than most group management bots but also capable of handling several process at a time.</p>
 
-- [Add her to your groups](https://t.me/MissStella_bot?startgroup=botstart)
+- [Add her to your groups](https://t.me/eva_support_chat?startgroup=botstart)
 
 <hr>
 
 ### Features
 
-<p>Stella is Easy to use, Elegant and Fast, with lots of plugins.</p>
+<p>Stella sebastin is Easy to use, Elegant and Fast, with lots of plugins.</p>
 
 ### Installation
 
@@ -27,7 +27,7 @@ Rename `config.example.toml` to `config.toml`. Put all the variables and finally
 ```
 python3 -m Stella
 ```
-- Questions and help to be assisted in the [Stella support group](https://t.me/nina77chat).
+- Questions and help to be assisted in the [Stella support group](https://t.me/eva_support_chat)
 
 <hr>
 
@@ -50,7 +50,7 @@ python3 -m Stella
   
 ### Kudos to these chads!
 
-**The Creator(s)** - Neel, anii (t.me/meanii)
+**The Creator(s)** - katta(t.me/Maintainers_bots)
 
 ### Contributors
 
